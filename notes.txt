@@ -41,6 +41,9 @@ means:
  Q 39 main inittialisation ko samjho
 
 vector<vector<int>> matrix(m, vector<int>(n, 0)); initialise all emlemnet 0
+
+----------linked list code in C folder is  very  important ------------
  
+
 
 
