@@ -1,0 +1,46 @@
+stoi convert string to integer in 682
+
+if vector string then use " "
+else use ' ' or use " " for strings
+
+Important denoted by -------------------------------
+
+EXPLORE ERASE FUNCTION 
+
+explore every type of type of function in cpp------------------------------
+
+if dont inittalize size then can do push back for vector....
+
+hashing concept
+
+que 11 must be understant-------
+
+learn vectro of vectors concept
+
+sort(nums.begin(),nums.end()); for sorting-------------
+
+use     -----------#include<bits/stdc++.h>--------- and using namespace std;
+
+insert and resize functuon is very important....
+
+*max_element(sum.begin(), sum.end())
+
+
+
+vector<double> sum(n - k + 1, 0.0);
+means:
+👉 Create a vector named sum
+👉 with (n - k + 1) elements
+👉 and initialize EVERY element with 0.0
+
+ swap(nums[j],nums[j+1]);
+
+ erase function important
+ acuumulate STL important
+
+ Q 39 main inittialisation ko samjho
+
+vector<vector<int>> matrix(m, vector<int>(n, 0)); initialise all emlemnet 0
+ 
+
+
