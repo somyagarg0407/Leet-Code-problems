@@ -84,3 +84,22 @@ in 62_448 pls learn the optimal trick for interviews !!!
 sort(v.begin(), v.end());
 v.erase(unique(v.begin(), v.end()), v.end()); in que 63 vs code
 string.erase(position, length);
+
+string s = "hello";
+s.find("");
+also returns 0.  means empty string find at zeroth index in que 67 leet code also check out for it optimised solution 
+
+Hashing very important
+
+Two sum wale ko hash se bhi karna hai plss
+
+sort(nums.begin(), nums.end(), greater<int>()); for descending
+
+Whenever array is sorted, ALWAYS think: Binary Search Two Pointer
+
+Quer 80 vs code acha hai kafi
+
+Que number 2946 leetcode very very imp -------------------
+
+int n = box.size(); ese agr pehle se hi size kahin par store karne ka fayda hota hai kafi que main 
+
