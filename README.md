@@ -33,21 +33,28 @@ The primary goal of this repository is to track my consistency, improve coding s
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
-Solutions are organized by problem number and topic for easy navigation.
-
-Example:
+Solutions are named using the following convention:
 
 ```text
-Arrays/
-Strings/
-Stack/
-Binary Search/
-...
+x_y.cpp
 ```
 
----
+Where:
+
+- **x** → The order in which I solved the problem.
+- **y** → The original LeetCode problem number.
+
+### Example
+
+```text
+1_1.cpp      → First problem solved (LeetCode #1)
+2_9.cpp      → Second problem solved (LeetCode #9)
+35_155.cpp   → 35th solved problem (LeetCode #155)
+```
+
+This naming convention helps me track both my learning journey and the original LeetCode problem number.
 
 ## 🎯 Goals
 
