@@ -103,3 +103,58 @@ Que number 2946 leetcode very very imp -------------------
 
 int n = box.size(); ese agr pehle se hi size kahin par store karne ka fayda hota hai kafi que main 
 
+👉 st.count(x) means:
+if x exists → returns 1
+else → 0
+
+question number 3 leet codde very important
+
+int sum = accumulate(v.begin(), v.end(), 0); to find the sum of all elements in vector
+
+// remove element at index 2 (30)
+v.erase(v.begin() + 2);
+
+// remove all 20s
+v.erase(remove(v.begin(), v.end(), 20), v.end());------------------------------------------------
+
+int index = max_element(nums.begin(), nums.end()) - nums.begin(); to get index of max element
+
+A substring is always continuous (back-to-back characters)
+
+sliding window ko ache se ye sikhan ahi ki ye use kab kab karna ahui and uska dhyan rakhna hai 
+
+3 sum ache se karna 
+
+C++ me || (OR operator) short-circuit karta hai.
+👉 Matlab:
+Agar left side true hai (i < 2), toh right side evaluate hi nahi hoti
+
+que 560 ka optimal bhi dekhna hai soilution
+
+que 974 samjhna padega 
+-------------------------------------------------------
+Instead of:
+int mid = (left + right) / 2;
+👉 Better practice:(in binary search)
+int mid = left + (right - left) / 2;
+-------------------------------------------------------
+
+sum+=.... ese likhna hai na ki ese sum + =.... gap nahi dena hot ahai + and = isme
+
+int first = findFirst(nums, target); ye first occurace nikal rha hai target ki in nums vector same for last occurance findLast
+
+C++ me class ke andar jo bhi members hote hain, wo default se private hote hain.
+-------------------------------------------------------------
+Type	  Order Important?  	Continuous?
+Subset	       ❌ No	          ❌ No
+Subsequence	  ✅ Yes	          ❌ No
+Subarray	  ✅ Yes	         ✅ Yes
+--------------------------------------------------------------
+stack<pair<int, int>> st; // {price, span} iska dhyan rakhna ji bhaijaan
+-------------------------------------------------------------
+question number 901 leetcdoe wise is very important to unserrstandf new conceopt in stack
+---------------------------------------------
+ignire karne ka matlab generally continue hta hai 
+-------------------------------------------------
+question number 71 leetcode ke acc stack ka behtrin question ha dekhna use isi foder main
+
