@@ -10,7 +10,7 @@ The primary goal of this repository is to track my consistency, improve coding s
 
 ## 📊 Current Progress
 
-* ✅ 125+ Problems Solved
+* ✅ 120+ Problems Solved
 * 💻 Language: C++
 * 🎯 Focus: Logic Building & Interview Preparation
 
