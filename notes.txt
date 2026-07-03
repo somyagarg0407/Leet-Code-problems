@@ -157,4 +157,9 @@ question number 901 leetcdoe wise is very important to unserrstandf new conceopt
 ignire karne ka matlab generally continue hta hai 
 -------------------------------------------------
 question number 71 leetcode ke acc stack ka behtrin question ha dekhna use isi foder main
+agar ans nhai mila toh -1 push klardo vector vale questins main better hai ki phee se hi pure vector main initialise kardo -1 vo best hai mostly
+Que 503 leetcode ko yt se approach samjhni hai 
+-------------------------------------------------
+que 560 logically samjha bahut arurui hai for better base for hashing
+----------------------
 
